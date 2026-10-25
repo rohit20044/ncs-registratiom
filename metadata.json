@@ -1,0 +1,6 @@
+{
+  "name": "NCS Registration",
+  "description": "Official employee registration portal for NCS with profile details, employee identification, age verification, and salary bracket classification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
